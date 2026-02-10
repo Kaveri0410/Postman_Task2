@@ -62,12 +62,12 @@ The goal is to validate API functionality and document the test execution result
 ## Output Screenshots  
 
 ### POST Request – Login API  
-![POST Request Screenshot](screenshots/post.png)
+![POST Request](screenshots/post.png)
 
 ---
 
 ### GET Request – Get Users API  
-![GET Request Screenshot](screenshots/get.png)
+![GET Request](screenshots/get.png)
 
 ---
 
