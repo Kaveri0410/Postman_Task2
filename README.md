@@ -16,7 +16,8 @@ API Testing with Postman
 
 "DURATION": 4WEEKS
 
-"MENTOR": NEELA SANTHOSH
+"Mentor": NEELA SANTHOSH
+
 ---
 
 ## Objective  
