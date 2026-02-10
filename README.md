@@ -66,9 +66,8 @@ The goal is to validate API functionality and document the test execution result
 
 ---
 
-### GET Request – Get Users API
-![POST Request Screenshot](screenshots/get.png)
-
+### GET Request – Get Users API  
+![GET Request Screenshot](screenshots/get.png)
 
 ---
 
