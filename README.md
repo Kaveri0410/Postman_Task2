@@ -62,12 +62,13 @@ The goal is to validate API functionality and document the test execution result
 ## Output Screenshots
 
 ### POST Request – Login API
-![POST Request Screenshot](https://raw.githubusercontent.com/Kaveri0410/Postman_Task2/main/screenshots/post.png)
+![POST Request Screenshot](screenshots/post.png)
 
 ---
 
 ### GET Request – Get Users API
-![GET Request Screenshot](https://raw.githubusercontent.com/Kaveri0410/Postman_Task2/main/screenshots/get.png)
+![POST Request Screenshot](screenshots/get.png)
+
 
 ---
 
