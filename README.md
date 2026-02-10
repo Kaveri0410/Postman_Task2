@@ -1,5 +1,5 @@
 # Postman_Task2  
-## CODTECH Internship Task-2
+## CODETECH Internship Task-2
 
 ---
 
